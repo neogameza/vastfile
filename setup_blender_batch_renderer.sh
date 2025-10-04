@@ -1,2 +1,2 @@
-mkdir $HOME/Desktop/render_animation_for_each_blend_file_in_batch_of_blend_files
-wget https://raw.githubusercontent.com/neogameza/vastfile/refs/heads/main/render_animation_for_each_blend_file_in_batch_of_blend_files.ipynb --directory-prefix=$HOME/Desktop/render_animation_for_each_blend_file_in_batch_of_blend_files
+mkdir $HOME/Demo
+wget https://raw.githubusercontent.com/neogameza/vastfile/refs/heads/main/render_animation_for_each_blend_file_in_batch_of_blend_files.ipynb --directory-prefix=$HOME/Demo
